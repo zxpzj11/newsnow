@@ -46,8 +46,8 @@ function RootComponent() {
             gridTemplateColumns: "50px auto 50px",
           }}
         >
-            <meta name="google-site-verification" content="N18GxAgr16d-IlR-VPSTsiIix-RJu78r_PciGQ9FPZM" />
           <Header />
+            <meta name="google-site-verification" content="N18GxAgr16d-IlR-VPSTsiIix-RJu78r_PciGQ9FPZM" />
         </header>
         <main className={$([
           "mt-2",

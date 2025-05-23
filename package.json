@@ -1,7 +1,7 @@
 {
   "name": "新闻聚合",
   "type": "module",
-  "version": "",
+  "version": "0.0.20",
   "private": true,
   "packageManager": "pnpm@9.12.1",
   "author": {

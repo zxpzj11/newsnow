@@ -9,7 +9,6 @@ const pwaOption: Partial<VitePWAOptions> = {
     name: "NewsNow",
     short_name: "NewsNow",
     description: "Elegant reading of real-time and hottest news",
-    google_site_verification: "N18GxAgr16d-IlR-VPSTsiIix-RJu78r_PciGQ9FPZM",
     theme_color: "#F14D42",
     icons: [
       {

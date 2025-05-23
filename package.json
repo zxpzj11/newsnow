@@ -1,13 +1,13 @@
 {
-  "name": "newsnow",
+  "name": "新闻聚合",
   "type": "module",
-  "version": "0.0.20",
+  "version": "",
   "private": true,
   "packageManager": "pnpm@9.12.1",
   "author": {
-    "url": "https://github.com/ourongxing/",
-    "email": "orongxing@gmail.com",
-    "name": "ourongxing"
+    "url": "https://www.superme.work",
+    "email": "zxpzj11@gmail.com",
+    "name": "zxpzj11"
   },
   "homepage": "https://github.com/ourongxing/newsnow",
   "scripts": {

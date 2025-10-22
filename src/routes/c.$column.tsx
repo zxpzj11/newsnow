@@ -1,6 +1,7 @@
 import { createFileRoute, redirect } from "@tanstack/react-router"
 import { Column } from "~/components/column"
-import { SEOHead, useColumnSEO } from "~/components/seo"
+import { SEOHead } from "~/components/seo/head"
+import { useColumnSEO } from "~/components/seo/hooks"
 
 export const Route = createFileRoute("/c/$column")({
   component: SectionComponent,

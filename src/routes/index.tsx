@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router"
 import { focusSourcesAtom } from "~/atoms"
 import { Column } from "~/components/column"
-import { SEOHead } from "~/components/seo"
+import { SEOHead } from "~/components/seo/head"
 
 export const Route = createFileRoute("/")({
   component: IndexComponent,

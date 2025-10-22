@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <!-- 首页 -->
+  <url>
+    <loc>https://newsnow.superme.work/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- 新闻分类页面 -->
+  <url>
+    <loc>https://newsnow.superme.work/c/china</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://newsnow.superme.work/c/world</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://newsnow.superme.work/c/tech</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://newsnow.superme.work/c/finance</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://newsnow.superme.work/c/realtime</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://newsnow.superme.work/c/hottest</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://newsnow.superme.work/c/focus</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>

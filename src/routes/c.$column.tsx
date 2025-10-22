@@ -1,5 +1,6 @@
 import { createFileRoute, redirect } from "@tanstack/react-router"
 import { Column } from "~/components/column"
+import { SEOHead, useColumnSEO } from "~/components/seo/head"
 
 export const Route = createFileRoute("/c/$column")({
   component: SectionComponent,
@@ -22,5 +23,12 @@ export const Route = createFileRoute("/c/$column")({
 
 function SectionComponent() {
   const { column } = Route.useParams()
-  return <Column id={column} />
+  const seoData = useColumnSEO(column)
+
+  return (
+    <>
+      <SEOHead {...seoData} />
+      <Column id={column} />
+    </>
+  )
 }
